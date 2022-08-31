@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Housseini</h1>
 <h3 align="center">A Full Stack Web developer</h3>
-<img align=“auto” alt=“coding” width=“400” src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif”>
+<img align=“auto” alt=“coding” width=“400” src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alirhousseini&label=Profile%20views&color=0e75b6&style=flat" alt="alirhousseini" /> </p>
 
 <p align="left">
